@@ -1,0 +1,1899 @@
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/SH3
+Finding Restart Files
+Determining Status
+Restart1253 is queued
+Restart1252 is queued
+Restart1251 is queued
+Restart1250 is queued
+Restart1249 is queued
+Restart1248 is queued
+Restart1247 is queued
+Restart1246 is queued
+Restart1245 is queued
+Restart1244 is queued
+Restart1243 is queued
+Restart1242 is queued
+Restart1241 reached wallclock
+Restart1240 reached wallclock
+Restart1239 reached wallclock
+Restart1238 reached wallclock
+Restart1237 reached wallclock
+Restart1236 reached wallclock
+Restart1235 reached wallclock
+Restart1234 reached wallclock
+Restart1233 reached wallclock
+Restart1232 reached wallclock
+Restart1231 reached wallclock
+Restart1230 reached wallclock
+Restart1229 reached wallclock
+Restart1228 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/binding/bottom_approach/yang_q
+Finding Restart Files
+Determining Status
+Restart1200 is queued
+Restart1199 is queued
+Restart1198 is queued
+Restart1197 is queued
+Restart1196 is queued
+Restart1195 is queued
+Restart1194 is queued
+Restart1193 is queued
+Restart1192 is queued
+Restart1191 is queued
+Restart1190 is queued
+Restart1189 is queued
+Restart1188 reached wallclock
+Restart1187 reached wallclock
+Restart1186 reached wallclock
+Restart1185 reached wallclock
+Restart1184 reached wallclock
+Restart1183 reached wallclock
+Restart1182 reached wallclock
+Restart1181 reached wallclock
+Restart1180 reached wallclock
+Restart1179 reached wallclock
+Restart1178 reached wallclock
+Restart1177 reached wallclock
+Restart1176 reached wallclock
+Restart1175 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/binding/top_approach/yang_q
+Finding Restart Files
+Determining Status
+Restart1147 is queued
+Restart1146 is queued
+Restart1145 is queued
+Restart1144 is queued
+Restart1143 is queued
+Restart1142 is queued
+Restart1141 is queued
+Restart1140 is queued
+Restart1139 is running
+Restart1138 reached wallclock
+Restart1137 reached wallclock
+Restart1136 reached wallclock
+Restart1135 reached wallclock
+Restart1134 reached wallclock
+Restart1133 reached wallclock
+Restart1132 reached wallclock
+Restart1131 reached wallclock
+Restart1130 reached wallclock
+Restart1129 reached wallclock
+Restart1128 reached wallclock
+Restart1127 reached wallclock
+Restart1126 reached wallclock
+Restart1125 reached wallclock
+Restart1124 reached wallclock
+Restart1123 reached wallclock
+Restart1122 reached wallclock
+Cleaning Restart1148 to Restart1149
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart1148: No such file or directory
+canceling job restart1148 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart1149: No such file or directory
+canceling job restart1149 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+****** Done ******
+Removing directory restart1148 ...
+Removing directory restart1149 ...
+****** Done ******
+/panfs/storage.local/home-1/sa14aa/rst/bdrst/dorst-buddy
+walltime = 0-04:00:00 for backfill
+1148 / ( 1148 1149 )
+n restart1148
+npre restart1147
+jobidpre 3869816
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3869816 ...
+ifok = 1
+1149 / ( 1148 1149 )
+n restart1149
+npre restart1148
+jobidpre 3871420
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871420 ...
+ifok = 1
+Job Submission Complete
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/extract/top_extract
+Finding Restart Files
+Determining Status
+Restart1295 is queued
+Restart1294 is queued
+Restart1293 is queued
+Restart1292 is queued
+Restart1291 is queued
+Restart1290 is queued
+Restart1289 is queued
+Restart1288 is queued
+Restart1287 is queued
+Restart1286 is queued
+Restart1285 is queued
+Restart1284 is queued
+Restart1283 reached wallclock
+Restart1282 reached wallclock
+Restart1281 reached wallclock
+Restart1280 reached wallclock
+Restart1279 reached wallclock
+Restart1278 reached wallclock
+Restart1277 reached wallclock
+Restart1276 reached wallclock
+Restart1275 reached wallclock
+Restart1274 reached wallclock
+Restart1273 reached wallclock
+Restart1272 reached wallclock
+Restart1271 reached wallclock
+Restart1270 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/extract/bottom_extract
+Finding Restart Files
+Determining Status
+Restart1006 is queued
+Restart1005 is queued
+Restart1004 is queued
+Restart1003 is queued
+Restart1002 is queued
+Restart1001 is queued
+Restart1000 is queued
+Restart999 is queued
+Restart998 is queued
+Restart997 is queued
+Restart996 is queued
+Restart995 is queued
+Restart994 reached wallclock
+Restart993 reached wallclock
+Restart992 reached wallclock
+Restart991 reached wallclock
+Restart990 reached wallclock
+Restart989 reached wallclock
+Restart988 reached wallclock
+Restart987 reached wallclock
+Restart986 reached wallclock
+Restart985 reached wallclock
+Restart984 reached wallclock
+Restart983 reached wallclock
+Restart982 reached wallclock
+Restart981 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/top_approach/yang_q
+Finding Restart Files
+Determining Status
+Restart1261 is queued
+Restart1260 is queued
+Restart1259 is queued
+Restart1258 is queued
+Restart1257 is queued
+Restart1256 is queued
+Restart1255 is queued
+Restart1254 is queued
+Restart1253 is queued
+Restart1252 is queued
+Restart1251 is queued
+Restart1250 is queued
+Restart1249 reached wallclock
+Restart1248 reached wallclock
+Restart1247 reached wallclock
+Restart1246 reached wallclock
+Restart1245 reached wallclock
+Restart1244 reached wallclock
+Restart1243 reached wallclock
+Restart1242 reached wallclock
+Restart1241 reached wallclock
+Restart1240 reached wallclock
+Restart1239 reached wallclock
+Restart1238 reached wallclock
+Restart1237 reached wallclock
+Restart1236 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/bottom_approach/yang_q
+Finding Restart Files
+Determining Status
+Restart963 is queued
+Restart962 is queued
+Restart961 is queued
+Restart960 is queued
+Restart959 is queued
+Restart958 is queued
+Restart957 is queued
+Restart956 is queued
+~~~~~~~~~~~~~~~!!!Error in restart955!!!~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~!!!Error in restart954!!!~~~~~~~~~~~~~~~~
+Restart953 reached wallclock
+Restart952 reached wallclock
+Restart951 reached wallclock
+Restart950 reached wallclock
+Restart949 reached wallclock
+Restart948 reached wallclock
+Restart947 reached wallclock
+Restart946 reached wallclock
+Restart945 reached wallclock
+Restart944 reached wallclock
+Restart943 reached wallclock
+Restart942 reached wallclock
+Restart941 reached wallclock
+Restart940 reached wallclock
+Restart939 reached wallclock
+cp: failed to close ‘./error_log/MonAug8_08:41:35/charmm.out’: Input/output error
+Cleaning Restart954 to Restart979
+canceling job restart954 ...
+Submitted batch job 3861447
+cancelling job 3861447 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart955 ...
+Submitted batch job 3861448
+cancelling job 3861448 ...
+canceling job restart956 ...
+Submitted batch job 3863496
+cancelling job 3863496 ...
+canceling job restart957 ...
+Submitted batch job 3863497
+cancelling job 3863497 ...
+canceling job restart958 ...
+Submitted batch job 3865026
+cancelling job 3865026 ...
+canceling job restart959 ...
+Submitted batch job 3865027
+cancelling job 3865027 ...
+canceling job restart960 ...
+Submitted batch job 3866763
+cancelling job 3866763 ...
+canceling job restart961 ...
+Submitted batch job 3866764
+cancelling job 3866764 ...
+canceling job restart962 ...
+Submitted batch job 3869820
+cancelling job 3869820 ...
+canceling job restart963 ...
+Submitted batch job 3869821
+cancelling job 3869821 ...
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart964: No such file or directory
+canceling job restart964 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart965: No such file or directory
+canceling job restart965 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart966: No such file or directory
+canceling job restart966 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart967: No such file or directory
+canceling job restart967 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart968: No such file or directory
+canceling job restart968 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart969: No such file or directory
+canceling job restart969 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart970: No such file or directory
+canceling job restart970 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart971: No such file or directory
+canceling job restart971 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart972: No such file or directory
+canceling job restart972 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart973: No such file or directory
+canceling job restart973 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart974: No such file or directory
+canceling job restart974 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart975: No such file or directory
+canceling job restart975 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart976: No such file or directory
+canceling job restart976 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart977: No such file or directory
+canceling job restart977 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart978: No such file or directory
+canceling job restart978 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart979: No such file or directory
+canceling job restart979 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+****** Done ******
+Removing directory restart954 ...
+Removing directory restart955 ...
+Removing directory restart956 ...
+Removing directory restart957 ...
+Removing directory restart958 ...
+Removing directory restart959 ...
+Removing directory restart960 ...
+Removing directory restart961 ...
+Removing directory restart962 ...
+Removing directory restart963 ...
+Removing directory restart964 ...
+Removing directory restart965 ...
+Removing directory restart966 ...
+Removing directory restart967 ...
+Removing directory restart968 ...
+Removing directory restart969 ...
+Removing directory restart970 ...
+Removing directory restart971 ...
+Removing directory restart972 ...
+Removing directory restart973 ...
+Removing directory restart974 ...
+Removing directory restart975 ...
+Removing directory restart976 ...
+Removing directory restart977 ...
+Removing directory restart978 ...
+Removing directory restart979 ...
+****** Done ******
+/panfs/storage.local/home-1/sa14aa/rst/bdrst/dorst-buddy
+walltime = 0-04:00:00 for backfill
+954 / ( 954 965 )
+n restart954
+npre restart953
+jobidpre 3859755
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3859755 ...
+ifok = 1
+955 / ( 954 965 )
+n restart955
+npre restart954
+jobidpre 3871423
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871423 ...
+ifok = 1
+956 / ( 954 965 )
+n restart956
+npre restart955
+jobidpre 3871424
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871424 ...
+ifok = 1
+957 / ( 954 965 )
+n restart957
+npre restart956
+jobidpre 3871425
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871425 ...
+ifok = 1
+958 / ( 954 965 )
+n restart958
+npre restart957
+jobidpre 3871426
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871426 ...
+ifok = 1
+959 / ( 954 965 )
+n restart959
+npre restart958
+jobidpre 3871427
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871427 ...
+ifok = 1
+960 / ( 954 965 )
+n restart960
+npre restart959
+jobidpre 3871428
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871428 ...
+ifok = 1
+961 / ( 954 965 )
+n restart961
+npre restart960
+jobidpre 3871429
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871429 ...
+ifok = 1
+962 / ( 954 965 )
+n restart962
+npre restart961
+jobidpre 3871430
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871430 ...
+ifok = 1
+963 / ( 954 965 )
+n restart963
+npre restart962
+jobidpre 3871431
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871431 ...
+ifok = 1
+964 / ( 954 965 )
+n restart964
+npre restart963
+jobidpre 3871432
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871432 ...
+ifok = 1
+965 / ( 954 965 )
+n restart965
+npre restart964
+jobidpre 3871433
+17
+62
+125
+17 62 125
+Start a dependency job. sbatchbd 3871433 ...
+ifok = 1
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/docking/genacc
+Finding Restart Files
+Determining Status
+Restart866 is queued
+Restart865 is queued
+Restart864 is queued
+Restart863 is queued
+Restart862 is queued
+Restart861 is queued
+Restart860 is queued
+Restart859 is queued
+Restart858 is queued
+Restart857 is queued
+Restart856 is queued
+Restart855 is queued
+Restart854 reached wallclock
+Restart853 reached wallclock
+Restart852 reached wallclock
+Restart851 reached wallclock
+Restart850 reached wallclock
+Restart849 reached wallclock
+Restart848 reached wallclock
+Restart847 reached wallclock
+Restart846 reached wallclock
+Restart845 reached wallclock
+Restart844 reached wallclock
+Restart843 reached wallclock
+Restart842 reached wallclock
+Restart841 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/production
+Finding Restart Files
+Determining Status
+Restart263 is queued
+Restart262 is queued
+Restart261 is queued
+Restart260 is queued
+Restart259 is queued
+Restart258 is queued
+Restart257 is queued
+Restart256 is queued
+Restart255 is queued
+Restart254 is queued
+Restart253 is queued
+Restart252 is queued
+Restart251 reached wallclock
+Restart250 reached wallclock
+Restart249 reached wallclock
+Restart248 reached wallclock
+Restart247 reached wallclock
+Restart246 reached wallclock
+Restart245 reached wallclock
+Restart244 reached wallclock
+Restart243 reached wallclock
+Restart242 reached wallclock
+Restart241 reached wallclock
+Restart240 reached wallclock
+Restart239 reached wallclock
+Restart238 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/production2
+Finding Restart Files
+Determining Status
+Restart169 is queued
+Restart168 is queued
+Restart167 is queued
+Restart166 is queued
+Restart165 is queued
+Restart164 is queued
+Restart163 is queued
+Restart162 is queued
+Restart161 is queued
+Restart160 is queued
+Restart159 is queued
+Restart158 is queued
+Restart157 reached wallclock
+Restart156 reached wallclock
+Restart155 reached wallclock
+Restart154 reached wallclock
+Restart153 reached wallclock
+Restart152 reached wallclock
+Restart151 reached wallclock
+Restart150 reached wallclock
+Restart149 reached wallclock
+Restart148 reached wallclock
+Restart147 reached wallclock
+Restart146 reached wallclock
+Restart145 reached wallclock
+Restart144 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/production3
+Finding Restart Files
+Determining Status
+Restart172 is queued
+Restart171 is queued
+Restart170 is queued
+Restart169 is queued
+Restart168 is queued
+Restart167 is queued
+Restart166 is queued
+Restart165 is queued
+Restart164 is queued
+Restart163 is queued
+Restart162 is queued
+Restart161 is queued
+Restart160 reached wallclock
+Restart159 reached wallclock
+Restart158 reached wallclock
+Restart157 reached wallclock
+Restart156 reached wallclock
+Restart155 reached wallclock
+Restart154 reached wallclock
+Restart153 reached wallclock
+Restart152 reached wallclock
+Restart151 reached wallclock
+Restart150 reached wallclock
+Restart149 reached wallclock
+Restart148 reached wallclock
+Restart147 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production
+Finding Restart Files
+Determining Status
+Restart160 is queued
+Restart159 is queued
+Restart158 is queued
+Restart157 is queued
+Restart156 is queued
+Restart155 is queued
+Restart154 is queued
+Restart153 is queued
+Restart152 is queued
+Restart151 is queued
+Restart150 is queued
+Restart149 is queued
+Restart148 reached wallclock
+Restart147 reached wallclock
+Restart146 reached wallclock
+Restart145 reached wallclock
+Restart144 reached wallclock
+Restart143 reached wallclock
+Restart142 reached wallclock
+Restart141 reached wallclock
+Restart140 reached wallclock
+Restart139 reached wallclock
+Restart138 reached wallclock
+Restart137 reached wallclock
+Restart136 reached wallclock
+Restart135 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production2
+Finding Restart Files
+Determining Status
+Restart174 is queued
+Restart173 is queued
+Restart172 is queued
+Restart171 is queued
+Restart170 is queued
+Restart169 is queued
+Restart168 is queued
+Restart167 is queued
+Restart166 is queued
+Restart165 is queued
+Restart164 is queued
+Restart163 is queued
+Restart162 reached wallclock
+Restart161 reached wallclock
+Restart160 reached wallclock
+Restart159 reached wallclock
+Restart158 reached wallclock
+Restart157 reached wallclock
+Restart156 reached wallclock
+Restart155 reached wallclock
+Restart154 reached wallclock
+Restart153 reached wallclock
+Restart152 reached wallclock
+Restart151 reached wallclock
+Restart150 reached wallclock
+Restart149 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production3
+Finding Restart Files
+Determining Status
+Restart161 is queued
+Restart160 is queued
+Restart159 is queued
+Restart158 is queued
+Restart157 is queued
+Restart156 is queued
+Restart155 is queued
+Restart154 is queued
+Restart153 is queued
+Restart152 is queued
+Restart151 is queued
+Restart150 is queued
+Restart149 reached wallclock
+Restart148 reached wallclock
+Restart147 reached wallclock
+Restart146 reached wallclock
+Restart145 reached wallclock
+Restart144 reached wallclock
+Restart143 reached wallclock
+Restart142 reached wallclock
+Restart141 reached wallclock
+Restart140 reached wallclock
+Restart139 reached wallclock
+Restart138 reached wallclock
+Restart137 reached wallclock
+Restart136 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/production
+Finding Restart Files
+Determining Status
+Restart249 is queued
+Restart248 is queued
+Restart247 is queued
+Restart246 is queued
+Restart245 is queued
+Restart244 is queued
+Restart243 is queued
+Restart242 is queued
+Restart241 is queued
+Restart240 is queued
+Restart239 is queued
+Restart238 is queued
+Restart237 reached wallclock
+Restart236 reached wallclock
+Restart235 reached wallclock
+Restart234 reached wallclock
+Restart233 reached wallclock
+Restart232 reached wallclock
+Restart231 reached wallclock
+Restart230 reached wallclock
+Restart229 reached wallclock
+Restart228 reached wallclock
+Restart227 reached wallclock
+Restart226 reached wallclock
+Restart225 reached wallclock
+Restart224 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/production2
+Finding Restart Files
+Determining Status
+Restart135 is queued
+Restart134 is queued
+Restart133 is queued
+Restart132 is queued
+Restart131 is queued
+Restartrestart130 being removed, numjob error
+Restartrestart129 being removed, numjob error
+Restart128 is queued
+Restart127 is queued
+Restart126 is queued
+Restart125 is queued
+Restart124 is queued
+Restart123 reached wallclock
+Restart122 reached wallclock
+Restart121 reached wallclock
+Restart120 reached wallclock
+Restart119 reached wallclock
+Restart118 reached wallclock
+Restart117 reached wallclock
+Restart116 reached wallclock
+Restart115 reached wallclock
+Restart114 reached wallclock
+Restart113 reached wallclock
+Restart112 reached wallclock
+Restart111 reached wallclock
+Restart110 reached wallclock
+Restart109 reached wallclock
+Restart108 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/production3
+Finding Restart Files
+Determining Status
+Restart169 is queued
+Restart168 is queued
+Restart167 is queued
+Restart166 is queued
+Restart165 is queued
+Restart164 is queued
+Restart163 is queued
+Restart162 is queued
+Restart161 is queued
+Restart160 is queued
+Restart159 is queued
+Restart158 is queued
+Restart157 reached wallclock
+Restart156 reached wallclock
+Restart155 reached wallclock
+Restart154 reached wallclock
+Restart153 reached wallclock
+Restart152 reached wallclock
+Restart151 reached wallclock
+Restart150 reached wallclock
+Restart149 reached wallclock
+Restart148 reached wallclock
+Restart147 reached wallclock
+Restart146 reached wallclock
+Restart145 reached wallclock
+Restart144 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/lig_production
+Finding Restart Files
+Determining Status
+Restart119 is queued
+Restart118 is queued
+Restart117 is queued
+Restart116 is queued
+Restart115 is queued
+Restart114 is queued
+Restart113 is queued
+Restart112 is queued
+Restart111 is queued
+Restart110 is queued
+Restart109 is queued
+Restart108 is queued
+Restart107 reached wallclock
+Restart106 reached wallclock
+Restart105 reached wallclock
+Restart104 reached wallclock
+Restart103 reached wallclock
+Restart102 reached wallclock
+Restart101 reached wallclock
+Restart100 reached wallclock
+Restart99 reached wallclock
+Restart98 reached wallclock
+Restart97 reached wallclock
+Restart96 reached wallclock
+Restart95 reached wallclock
+Restart94 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/lig_production2
+Finding Restart Files
+Determining Status
+Restart123 is queued
+Restart122 is queued
+Restart121 is queued
+Restart120 is queued
+Restart119 is queued
+Restart118 is queued
+Restart117 is queued
+Restart116 is queued
+Restart115 is queued
+Restart114 is running
+Restart113 reached wallclock
+Restart112 reached wallclock
+Restart111 reached wallclock
+Restart110 reached wallclock
+Restart109 reached wallclock
+Restart108 reached wallclock
+Restart107 reached wallclock
+Restart106 reached wallclock
+Restart105 reached wallclock
+Restart104 reached wallclock
+Restart103 reached wallclock
+Restart102 reached wallclock
+Restart101 reached wallclock
+Restart100 reached wallclock
+Restart99 reached wallclock
+Restart98 reached wallclock
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/lig_production3
+Finding Restart Files
+Determining Status
+Restart158 is queued
+Restart157 is queued
+Restart156 is queued
+Restart155 is queued
+Restart154 is queued
+Restart153 is queued
+Restart152 is queued
+Restart151 is queued
+wc: restart150/*.dcd: No such file or directory
+~~~~~~~~~~~~~~~!!!Error in restart150!!!~~~~~~~~~~~~~~~~
+wc: restart149/*.dcd: No such file or directory
+~~~~~~~~~~~~~~~!!!Error in restart149!!!~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~Trajectory File Currupted~~~~~~~~~~
+Restart148 reached wallclock
+Restart147 reached wallclock
+Restart146 reached wallclock
+Restart145 reached wallclock
+Restart144 reached wallclock
+Restart143 reached wallclock
+Restart142 reached wallclock
+Restart141 reached wallclock
+Restart140 reached wallclock
+Restart139 reached wallclock
+Restart138 reached wallclock
+Restart137 reached wallclock
+Restart136 reached wallclock
+Restart135 reached wallclock
+mkdir: cannot create directory ‘./error_log’: File exists
+cp: failed to close ‘./error_log/MonAug8_08:43:59/joboe.out’: Input/output error
+cp: failed to close ‘./error_log/MonAug8_08:43:59/charmm.out’: Input/output error
+Cleaning Restart149 to Restart174
+canceling job restart149 ...
+Submitted batch job 3865966
+cancelling job 3865966 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart150 ...
+Submitted batch job 3865967
+cancelling job 3865967 ...
+canceling job restart151 ...
+Submitted batch job 3865968
+cancelling job 3865968 ...
+canceling job restart152 ...
+Submitted batch job 3865969
+cancelling job 3865969 ...
+canceling job restart153 ...
+Submitted batch job 3865970
+cancelling job 3865970 ...
+canceling job restart154 ...
+Submitted batch job 3865974
+cancelling job 3865974 ...
+canceling job restart155 ...
+Submitted batch job 3865975
+cancelling job 3865975 ...
+canceling job restart156 ...
+Submitted batch job 3865976
+cancelling job 3865976 ...
+canceling job restart157 ...
+Submitted batch job 3865977
+cancelling job 3865977 ...
+canceling job restart158 ...
+Submitted batch job 3865978
+cancelling job 3865978 ...
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart159: No such file or directory
+canceling job restart159 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart160: No such file or directory
+canceling job restart160 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart161: No such file or directory
+canceling job restart161 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart162: No such file or directory
+canceling job restart162 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart163: No such file or directory
+canceling job restart163 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart164: No such file or directory
+canceling job restart164 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart165: No such file or directory
+canceling job restart165 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart166: No such file or directory
+canceling job restart166 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart167: No such file or directory
+canceling job restart167 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart168: No such file or directory
+canceling job restart168 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart169: No such file or directory
+canceling job restart169 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart170: No such file or directory
+canceling job restart170 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart171: No such file or directory
+canceling job restart171 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart172: No such file or directory
+canceling job restart172 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart173: No such file or directory
+canceling job restart173 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+/panfs/storage.local/home-1/sa14aa/clean/clean-jobm.sh: line 14: cd: restart174: No such file or directory
+canceling job restart174 ...
+tail: cannot open ‘numjob’ for reading: No such file or directory
+tail: cannot open ‘numjob’ for reading: No such file or directory
+cancelling job ...
+scancel: error: No job identification provided
+****** Done ******
+Removing directory restart149 ...
+Removing directory restart150 ...
+Removing directory restart151 ...
+Removing directory restart152 ...
+Removing directory restart153 ...
+Removing directory restart154 ...
+Removing directory restart155 ...
+Removing directory restart156 ...
+Removing directory restart157 ...
+Removing directory restart158 ...
+Removing directory restart159 ...
+Removing directory restart160 ...
+Removing directory restart161 ...
+Removing directory restart162 ...
+Removing directory restart163 ...
+Removing directory restart164 ...
+Removing directory restart165 ...
+Removing directory restart166 ...
+Removing directory restart167 ...
+Removing directory restart168 ...
+Removing directory restart169 ...
+Removing directory restart170 ...
+Removing directory restart171 ...
+Removing directory restart172 ...
+Removing directory restart173 ...
+Removing directory restart174 ...
+****** Done ******
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin
+walltime = 0-04:00:00 for backfill
+149 / ( 149 160 )
+n restart149
+npre restart148
+jobidpre 3865965
+15
+46
+122
+15 46 122
+Start a dependency job. sbatchbd 3865965 ...
+ifok = 1
+150 / ( 149 160 )
+n restart150
+npre restart149
+jobidpre 3871438
+15
+46
+122
+15 46 122
+Start a dependency job. sbatchbd 3871438 ...
+ifok = 1
+151 / ( 149 160 )
+n restart151
+npre restart150
+jobidpre 3871439
+15
+46
+122
+15 46 122
+Start a dependency job. sbatchbd 3871439 ...
+ifok = 1
+152 / ( 149 160 )
+n restart152
+npre restart151
+jobidpre 3871440
+15
+46
+122
+15 46 122
+Start a dependency job. sbatchbd 3871440 ...
+ifok = 1
+153 / ( 149 160 )
+n restart153
+npre restart152
+jobidpre 3871441
+15
+46
+122
+15 46 122
+Start a dependency job. sbatchbd 3871441 ...
+ifok = 1
+154 / ( 149 160 )
+n restart154
+npre restart153
+jobidpre 3871442
+15
+46
+122
+15 46 122
+Start a dependency job. sbatchbd 3871442 ...
+ifok = 1
+155 / ( 149 160 )
+n restart155
+npre restart154
+jobidpre 3871443
+15
+46
+122
+15 46 122
+Start a dependency job. sbatchbd 3871443 ...
+ifok = 1
+156 / ( 149 160 )
+n restart156
+npre restart155
+jobidpre 3871444
+15
+46
+122
+15 46 122
+Start a dependency job. sbatchbd 3871444 ...
+ifok = 1
+157 / ( 149 160 )
+n restart157
+npre restart156
+jobidpre 3871445
+15
+46
+122
+15 46 122
+Start a dependency job. sbatchbd 3871445 ...
+ifok = 1
+158 / ( 149 160 )
+n restart158
+npre restart157
+jobidpre 3871446
+15
+46
+122
+15 46 122
+sed: couldn't close stdout: Input/output error
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 32: ortho-rst.inp: Disk quota exceeded
+mv: cannot stat ‘ortho-rst.inp’: No such file or directory
+Start a dependency job. sbatchbd 3871446 ...
+ifok = 1
+159 / ( 149 160 )
+ln: failed to create symbolic link ‘run158.rst.bak’: Disk quota exceeded
+n restart159
+npre restart158
+jobidpre 3871447
+cp: failed to close ‘./xortho.inp’: Input/output error
+15
+46
+122
+15 46 122
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 20: tmp1: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 21: tmp2: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 22: tmp3: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 26: ortho-rst.1: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 28: ortho-rst.2: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 29: ortho-rst.3: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 30: ortho-rst.4: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 31: ortho-rst.5: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 32: ortho-rst.inp: Disk quota exceeded
+rm: cannot remove ‘tmp1’: No such file or directory
+rm: cannot remove ‘tmp2’: No such file or directory
+rm: cannot remove ‘tmp3’: No such file or directory
+rm: cannot remove ‘ortho-rst.1’: No such file or directory
+rm: cannot remove ‘ortho-rst.2’: No such file or directory
+rm: cannot remove ‘ortho-rst.3’: No such file or directory
+rm: cannot remove ‘ortho-rst.4’: No such file or directory
+rm: cannot remove ‘ortho-rst.5’: No such file or directory
+mv: cannot stat ‘ortho-rst.inp’: No such file or directory
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 184: job: Disk quota exceeded
+Start a dependency job. sbatchbd 3871447 ...
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 238: numjob: Disk quota exceeded
+grep: numjob: No such file or directory
+grep: numjob: No such file or directory
+grep: numjob: No such file or directory
+grep: numjob: No such file or directory
+grep: numjob: No such file or directory
+grep: numjob: No such file or directory
+grep: numjob: No such file or directory
+wc: numjob: No such file or directory
+ifok =
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 358: [: -eq: unary operator expected
+160 / ( 149 160 )
+mkdir: cannot create directory ‘restart160’: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 94: cd: restart160: No such file or directory
+ln: failed to create symbolic link ‘oss159.rst’: Disk quota exceeded
+ln: failed to create symbolic link ‘run159.rst’: Disk quota exceeded
+ln: failed to create symbolic link ‘oss159.rst.bak’: Disk quota exceeded
+ln: failed to create symbolic link ‘run159.rst.bak’: Disk quota exceeded
+tail: cannot open ‘../restart159/numjob’ for reading: No such file or directory
+n restart160
+npre restart159
+jobidpre
+cp: cannot stat ‘../restart159/xortho.inp’: No such file or directory
+grep: ../xortho.inp: No such file or directory
+grep: ../xortho.inp: No such file or directory
+wc: ../xortho.inp: No such file or directory
+
+
+
+
+expr: syntax error
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 20: tmp1: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 21: tmp2: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 22: tmp3: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 26: ortho-rst.1: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 28: ortho-rst.2: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 29: ortho-rst.3: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 30: ortho-rst.4: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 31: ortho-rst.5: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/mkrst3rd-xubin.sh: line 32: ortho-rst.inp: Disk quota exceeded
+rm: cannot remove ‘tmp1’: No such file or directory
+rm: cannot remove ‘tmp2’: No such file or directory
+rm: cannot remove ‘tmp3’: No such file or directory
+rm: cannot remove ‘ortho-rst.1’: No such file or directory
+rm: cannot remove ‘ortho-rst.2’: No such file or directory
+rm: cannot remove ‘ortho-rst.3’: No such file or directory
+rm: cannot remove ‘ortho-rst.4’: No such file or directory
+rm: cannot remove ‘ortho-rst.5’: No such file or directory
+mv: cannot stat ‘ortho-rst.inp’: No such file or directory
+cat: write error: Input/output error
+Start a dependency job. sbatchbd ...
+ifok = 0
+Timeout! I guess its jobid is 1.
+Checking guessed jobid ...
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 363: checkjob: command not found
+Try 1 again in case of timeout ...
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 369: checkjob: command not found
+Bad guessed jobid. Do it with another jobid ...
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 377: checkjob: command not found
+Try 2 again in case of timeout ...
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 384: checkjob: command not found
+Bad guessed jobid again. Do it last time ...
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 391: checkjob: command not found
+Try 3 again in case of timeout ...
+/panfs/storage.local/home-1/sa14aa/rst/xbrst/dorst-xubin: line 398: checkjob: command not found
+Tried a few times and still failed.
+Stop restart process ...
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/strep_pro_g_a/production
+Finding Restart Files
+sort: write error: Input/output error
+Determining Status
+Cleaning Restart1 to Restart10
+canceling job restart01 ...
+Submitted batch job 996188262929
+cancelling job 996188262929 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart02 ...
+Submitted batch job 3573809
+cancelling job 3573809 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart03 ...
+Submitted batch job 3573810
+cancelling job 3573810 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart04 ...
+Submitted batch job 3573811
+cancelling job 3573811 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart05 ...
+Submitted batch job 3573812
+cancelling job 3573812 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart06 ...
+Submitted batch job 3580902
+cancelling job 3580902 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart07 ...
+Submitted batch job 3580903
+cancelling job 3580903 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart08 ...
+Submitted batch job 3582642
+cancelling job 3582642 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart09 ...
+Submitted batch job 3582643
+cancelling job 3582643 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+canceling job restart10 ...
+Submitted batch job 3586183
+cancelling job 3586183 ...
+scancel: error: slurm_kill_job2() failed Invalid job id specified
+****** Done ******
+Removing directory restart01 ...
+Removing directory restart02 ...
+Removing directory restart03 ...
+Removing directory restart04 ...
+Removing directory restart05 ...
+Removing directory restart06 ...
+Removing directory restart07 ...
+Removing directory restart08 ...
+Removing directory restart09 ...
+Removing directory restart10 ...
+****** Done ******
+grep: /job: No such file or directory
+grep: /job: No such file or directory
+grep: /job: No such file or directory
+grep: /job: No such file or directory
+grep: /job: No such file or directory
+Job Submission Complete
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/SH3
+Finding Restart Files
+Determining Status
+Restart1253 is queued
+Restart1252 is queued
+Restart1251 is queued
+Restart1250 is queued
+Restart1249 is queued
+Restart1248 is queued
+Restart1247 is queued
+Restart1246 is queued
+Restart1245 is queued
+Restart1244 is queued
+Restart1243 is queued
+Restart1242 is queued
+Restart1241 reached wallclock
+Restart1240 reached wallclock
+Restart1239 reached wallclock
+Restart1238 reached wallclock
+Restart1237 reached wallclock
+Restart1236 reached wallclock
+Restart1235 reached wallclock
+Restart1234 reached wallclock
+Restart1233 reached wallclock
+Restart1232 reached wallclock
+Restart1231 reached wallclock
+Restart1230 reached wallclock
+Restart1229 reached wallclock
+Restart1228 reached wallclock
+Restart1227 reached wallclock
+Restart1226 reached wallclock
+Last viable Run Completed on Mon Aug  8 01:34:07 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/binding/bottom_approach/yang_q
+Finding Restart Files
+Determining Status
+Restart1200 is queued
+Restart1199 is queued
+Restart1198 is queued
+Restart1197 is queued
+Restart1196 is queued
+Restart1195 is queued
+Restart1194 is queued
+Restart1193 is queued
+Restart1192 is queued
+Restart1191 is queued
+Restart1190 is queued
+Restart1189 is queued
+Restart1188 reached wallclock
+Restart1187 reached wallclock
+Restart1186 reached wallclock
+Restart1185 reached wallclock
+Restart1184 reached wallclock
+Restart1183 reached wallclock
+Restart1182 reached wallclock
+Restart1181 reached wallclock
+Restart1180 reached wallclock
+Restart1179 reached wallclock
+Restart1178 reached wallclock
+Restart1177 reached wallclock
+Restart1176 reached wallclock
+Restart1175 reached wallclock
+Restart1174 reached wallclock
+Restart1173 reached wallclock
+Last viable Run Completed on Mon Aug  8 01:59:45 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/binding/top_approach/yang_q
+Finding Restart Files
+Determining Status
+Restart1149 is queued
+Restart1148 is queued
+Restart1147 is queued
+Restart1146 is queued
+Restart1145 is queued
+Restart1144 is queued
+Restart1143 is queued
+Restart1142 is queued
+Restart1141 is queued
+Restart1140 is queued
+Restart1139 is running
+Restart1138 reached wallclock
+Restart1137 reached wallclock
+Restart1136 reached wallclock
+Restart1135 reached wallclock
+Restart1134 reached wallclock
+Restart1133 reached wallclock
+Restart1132 reached wallclock
+Restart1131 reached wallclock
+Restart1130 reached wallclock
+Restart1129 reached wallclock
+Restart1128 reached wallclock
+Restart1127 reached wallclock
+Restart1126 reached wallclock
+Restart1125 reached wallclock
+Restart1124 reached wallclock
+Restart1123 reached wallclock
+Last viable Run Completed on Mon Aug  8 04:36:48 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/extract/top_extract
+Finding Restart Files
+Determining Status
+Restart1295 is queued
+Restart1294 is queued
+Restart1293 is queued
+Restart1292 is queued
+Restart1291 is queued
+Restart1290 is queued
+Restart1289 is queued
+Restart1288 is queued
+Restart1287 is queued
+Restart1286 is queued
+Restart1285 is queued
+Restart1284 is queued
+Restart1283 reached wallclock
+Restart1282 reached wallclock
+Restart1281 reached wallclock
+Restart1280 reached wallclock
+Restart1279 reached wallclock
+Restart1278 reached wallclock
+Restart1277 reached wallclock
+Restart1276 reached wallclock
+Restart1275 reached wallclock
+Restart1274 reached wallclock
+Restart1273 reached wallclock
+Restart1272 reached wallclock
+Restart1271 reached wallclock
+Restart1270 reached wallclock
+Restart1269 reached wallclock
+Restart1268 reached wallclock
+Last viable Run Completed on Mon Aug  8 01:38:58 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/extract/bottom_extract
+Finding Restart Files
+Determining Status
+Restart1006 is queued
+Restart1005 is queued
+Restart1004 is queued
+Restart1003 is queued
+Restart1002 is queued
+Restart1001 is queued
+Restart1000 is queued
+Restart999 is queued
+Restart998 is queued
+Restart997 is queued
+Restart996 is queued
+Restart995 is queued
+Restart994 reached wallclock
+Restart993 reached wallclock
+Restart992 reached wallclock
+Restart991 reached wallclock
+Restart990 reached wallclock
+Restart989 reached wallclock
+Restart988 reached wallclock
+Restart987 reached wallclock
+Restart986 reached wallclock
+Restart985 reached wallclock
+Restart984 reached wallclock
+Restart983 reached wallclock
+Restart982 reached wallclock
+Restart981 reached wallclock
+Restart980 reached wallclock
+Restart979 reached wallclock
+Last viable Run Completed on Mon Aug  8 03:16:47 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/top_approach/yang_q
+Finding Restart Files
+Determining Status
+Restart1261 is queued
+Restart1260 is queued
+Restart1259 is queued
+Restart1258 is queued
+Restart1257 is queued
+Restart1256 is queued
+Restart1255 is queued
+Restart1254 is queued
+Restart1253 is queued
+Restart1252 is queued
+Restart1251 is queued
+Restart1250 is queued
+Restart1249 reached wallclock
+Restart1248 reached wallclock
+Restart1247 reached wallclock
+Restart1246 reached wallclock
+Restart1245 reached wallclock
+Restart1244 reached wallclock
+Restart1243 reached wallclock
+Restart1242 reached wallclock
+Restart1241 reached wallclock
+Restart1240 reached wallclock
+Restart1239 reached wallclock
+Restart1238 reached wallclock
+Restart1237 reached wallclock
+Restart1236 reached wallclock
+Restart1235 reached wallclock
+Restart1234 reached wallclock
+Last viable Run Completed on Mon Aug  8 00:44:50 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/bottom_approach/yang_q
+Finding Restart Files
+Determining Status
+Restart965 is queued
+Restart964 is queued
+Restart963 is queued
+Restart962 is queued
+Restart961 is queued
+Restart960 is queued
+Restart959 is queued
+Restart958 is queued
+Restart957 is queued
+Restart956 is queued
+Restart955 is queued
+Restart954 is queued
+Restart953 reached wallclock
+Restart952 reached wallclock
+Restart951 reached wallclock
+Restart950 reached wallclock
+Restart949 reached wallclock
+Restart948 reached wallclock
+Restart947 reached wallclock
+Restart946 reached wallclock
+Restart945 reached wallclock
+Restart944 reached wallclock
+Restart943 reached wallclock
+Restart942 reached wallclock
+Restart941 reached wallclock
+Restart940 reached wallclock
+Restart939 reached wallclock
+Restart938 reached wallclock
+Last viable Run Completed on Mon Aug  8 02:17:40 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/docking/genacc
+Finding Restart Files
+Determining Status
+Restart866 is queued
+Restart865 is queued
+Restart864 is queued
+Restart863 is queued
+Restart862 is queued
+Restart861 is queued
+Restart860 is queued
+Restart859 is queued
+Restart858 is queued
+Restart857 is queued
+Restart856 is queued
+Restart855 is queued
+Restart854 reached wallclock
+Restart853 reached wallclock
+Restart852 reached wallclock
+Restart851 reached wallclock
+Restart850 reached wallclock
+Restart849 reached wallclock
+Restart848 reached wallclock
+Restart847 reached wallclock
+Restart846 reached wallclock
+Restart845 reached wallclock
+Restart844 reached wallclock
+Restart843 reached wallclock
+Restart842 reached wallclock
+Restart841 reached wallclock
+Restart840 reached wallclock
+Restart839 reached wallclock
+Last viable Run Completed on Mon Aug  8 00:41:51 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/production
+Finding Restart Files
+Determining Status
+Restart263 is queued
+Restart262 is queued
+Restart261 is queued
+Restart260 is queued
+Restart259 is queued
+Restart258 is queued
+Restart257 is queued
+Restart256 is queued
+Restart255 is queued
+Restart254 is queued
+Restart253 is queued
+Restart252 is queued
+Restart251 reached wallclock
+Restart250 reached wallclock
+Restart249 reached wallclock
+Restart248 reached wallclock
+Restart247 reached wallclock
+Restart246 reached wallclock
+Restart245 reached wallclock
+Restart244 reached wallclock
+Restart243 reached wallclock
+Restart242 reached wallclock
+Restart241 reached wallclock
+Restart240 reached wallclock
+Restart239 reached wallclock
+Restart238 reached wallclock
+Restart237 reached wallclock
+Restart236 reached wallclock
+Last viable Run Completed on Mon Aug  8 02:36:00 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/production2
+Finding Restart Files
+Determining Status
+Restart169 is queued
+Restart168 is queued
+Restart167 is queued
+Restart166 is queued
+Restart165 is queued
+Restart164 is queued
+Restart163 is queued
+Restart162 is queued
+Restart161 is queued
+Restart160 is queued
+Restart159 is queued
+Restart158 is queued
+Restart157 reached wallclock
+Restart156 reached wallclock
+Restart155 reached wallclock
+Restart154 reached wallclock
+Restart153 reached wallclock
+Restart152 reached wallclock
+Restart151 reached wallclock
+Restart150 reached wallclock
+Restart149 reached wallclock
+Restart148 reached wallclock
+Restart147 reached wallclock
+Restart146 reached wallclock
+Restart145 reached wallclock
+Restart144 reached wallclock
+Restart143 reached wallclock
+Restart142 reached wallclock
+Last viable Run Completed on Mon Aug  8 02:06:43 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/production3
+Finding Restart Files
+Determining Status
+Restart172 is queued
+Restart171 is queued
+Restart170 is queued
+Restart169 is queued
+Restart168 is queued
+Restart167 is queued
+Restart166 is queued
+Restart165 is queued
+Restart164 is queued
+Restart163 is queued
+Restart162 is queued
+Restart161 is queued
+Restart160 reached wallclock
+Restart159 reached wallclock
+Restart158 reached wallclock
+Restart157 reached wallclock
+Restart156 reached wallclock
+Restart155 reached wallclock
+Restart154 reached wallclock
+Restart153 reached wallclock
+Restart152 reached wallclock
+Restart151 reached wallclock
+Restart150 reached wallclock
+Restart149 reached wallclock
+Restart148 reached wallclock
+Restart147 reached wallclock
+Restart146 reached wallclock
+Restart145 reached wallclock
+Last viable Run Completed on Mon Aug  8 03:44:14 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production
+Finding Restart Files
+Determining Status
+Restart160 is queued
+Restart159 is queued
+Restart158 is queued
+Restart157 is queued
+Restart156 is queued
+Restart155 is queued
+Restart154 is queued
+Restart153 is queued
+Restart152 is queued
+Restart151 is queued
+Restart150 is queued
+Restart149 is queued
+Restart148 reached wallclock
+Restart147 reached wallclock
+Restart146 reached wallclock
+Restart145 reached wallclock
+Restart144 reached wallclock
+Restart143 reached wallclock
+Restart142 reached wallclock
+Restart141 reached wallclock
+Restart140 reached wallclock
+Restart139 reached wallclock
+Restart138 reached wallclock
+Restart137 reached wallclock
+Restart136 reached wallclock
+Restart135 reached wallclock
+Restart134 reached wallclock
+Restart133 reached wallclock
+Last viable Run Completed on Mon Aug  8 02:17:12 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production2
+Finding Restart Files
+Determining Status
+Restart174 is queued
+Restart173 is queued
+Restart172 is queued
+Restart171 is queued
+Restart170 is queued
+Restart169 is queued
+Restart168 is queued
+Restart167 is queued
+Restart166 is queued
+Restart165 is queued
+Restart164 is queued
+Restart163 is queued
+Restart162 reached wallclock
+Restart161 reached wallclock
+Restart160 reached wallclock
+Restart159 reached wallclock
+Restart158 reached wallclock
+Restart157 reached wallclock
+Restart156 reached wallclock
+Restart155 reached wallclock
+Restart154 reached wallclock
+Restart153 reached wallclock
+Restart152 reached wallclock
+Restart151 reached wallclock
+Restart150 reached wallclock
+Restart149 reached wallclock
+Restart148 reached wallclock
+Restart147 reached wallclock
+Last viable Run Completed on Mon Aug  8 03:55:35 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production3
+Finding Restart Files
+Determining Status
+Restart161 is queued
+Restart160 is queued
+Restart159 is queued
+Restart158 is queued
+Restart157 is queued
+Restart156 is queued
+Restart155 is queued
+Restart154 is queued
+Restart153 is queued
+Restart152 is queued
+Restart151 is queued
+Restart150 is queued
+Restart149 reached wallclock
+Restart148 reached wallclock
+Restart147 reached wallclock
+Restart146 reached wallclock
+Restart145 reached wallclock
+Restart144 reached wallclock
+Restart143 reached wallclock
+Restart142 reached wallclock
+Restart141 reached wallclock
+Restart140 reached wallclock
+Restart139 reached wallclock
+Restart138 reached wallclock
+Restart137 reached wallclock
+Restart136 reached wallclock
+Restart135 reached wallclock
+Restart134 reached wallclock
+Last viable Run Completed on Mon Aug  8 02:21:14 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/production
+Finding Restart Files
+Determining Status
+Restart249 is queued
+Restart248 is queued
+Restart247 is queued
+Restart246 is queued
+Restart245 is queued
+Restart244 is queued
+Restart243 is queued
+Restart242 is queued
+Restart241 is queued
+Restart240 is queued
+Restart239 is queued
+Restart238 is queued
+Restart237 reached wallclock
+Restart236 reached wallclock
+Restart235 reached wallclock
+Restart234 reached wallclock
+Restart233 reached wallclock
+Restart232 reached wallclock
+Restart231 reached wallclock
+Restart230 reached wallclock
+Restart229 reached wallclock
+Restart228 reached wallclock
+Restart227 reached wallclock
+Restart226 reached wallclock
+Restart225 reached wallclock
+Restart224 reached wallclock
+Restart223 reached wallclock
+Restart222 reached wallclock
+Last viable Run Completed on Mon Aug  8 01:55:17 EDT 2016
+Last viable run completed 0 day(s) ago
+Enough Jobs Submitted...
+
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/production2
+Finding Restart Files
+Determining Status
+Restart135 is queued
+Restart134 is queued
+Restart133 is queued
+Restart132 is queued
+Restart131 is queued
+tail: cannot open ‘restart130/numjob’ for reading: No such file or directory
+/panfs/storage.local/home-1/sa14aa/job_automation/error_check.sh: line 55: restart130/queuecheck.out: No such file or directory
+expr: missing operand
+Try 'expr --help' for more information.
