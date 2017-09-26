@@ -1,2 +1,24 @@
 /panfs/storage.local/imb/yang/sa14aa/SH3
+<<<<<<< HEAD
+=======
+/panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/binding/bottom_approach/yang_q
+/panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/binding/top_approach/yang_q
+/panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/extract/top_extract
+/panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/extract/bottom_extract
+/panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/top_approach/yang_q
+/panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/bottom_approach/yang_q
+/panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/docking/genacc
+/panfs/storage.local/imb/yang/sa14aa/sreya/remix/production
+/panfs/storage.local/imb/yang/sa14aa/sreya/remix/production2
+/panfs/storage.local/imb/yang/sa14aa/sreya/remix/production3
+/panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production
+/panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production2
+/panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production3
+/panfs/storage.local/imb/yang/sa14aa/arya/remix/production
+/panfs/storage.local/imb/yang/sa14aa/arya/remix/production2
+/panfs/storage.local/imb/yang/sa14aa/arya/remix/production3
+/panfs/storage.local/imb/yang/sa14aa/arya/remix/lig_production
+/panfs/storage.local/imb/yang/sa14aa/arya/remix/lig_production2
+/panfs/storage.local/imb/yang/sa14aa/arya/remix/lig_production3
+>>>>>>> 2b779a0fc1e06678c285feb2763b36cd9dd6047c
 /panfs/storage.local/imb/yang/sa14aa/strep_pro_g_a/production

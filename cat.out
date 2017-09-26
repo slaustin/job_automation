@@ -1,0 +1,930 @@
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/SH3
+Finding Restart Files
+tail: cannot open ‘restart1253/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1252/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1251/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1250/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1249/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1248/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1247/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1246/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1245/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1244/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1243/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1242/dvdl.dat’ for reading: No such file or directory
+Last Successful Restart is 1241
+dirnum = 1241
+dirnum = 1240
+dirnum = 1239
+Catenating from Restart1238
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart1253/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1252/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1251/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1250/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1249/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1248/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1247/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1246/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1245/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1244/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1243/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1242/dvdl.dat’ for reading: No such file or directory
+Last Successful Directory is 1241
+Modifying approach.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/binding/bottom_approach/yang_q
+Finding Restart Files
+tail: cannot open ‘restart1200/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1199/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1198/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1197/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1196/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1195/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1194/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1193/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1192/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1191/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1190/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1189/dvdl.dat’ for reading: No such file or directory
+Last Successful Restart is 1188
+dirnum = 1188
+dirnum = 1187
+dirnum = 1186
+Catenating from Restart1185
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart1200/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1199/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1198/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1197/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1196/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1195/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1194/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1193/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1192/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1191/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1190/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1189/dvdl.dat’ for reading: No such file or directory
+Last Successful Directory is 1188
+Modifying bottom_approach.vmd
+VMD file already up to date
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/binding/top_approach/yang_q
+Finding Restart Files
+tail: cannot open ‘restart1147/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1146/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1145/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1144/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1143/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1142/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1141/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1140/dvdl.dat’ for reading: No such file or directory
+Last Successful Restart is 1139
+dirnum = 1139
+dirnum = 1138
+dirnum = 1137
+dirnum = 1136
+dirnum = 1135
+Catenating from Restart1134
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart1147/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1146/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1145/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1144/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1143/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1142/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1141/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1140/dvdl.dat’ for reading: No such file or directory
+Last Successful Directory is 1139
+Modifying approach.vmd
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/extract/top_extract
+Finding Restart Files
+tail: cannot open ‘restart1295/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1294/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1293/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1292/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1291/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1290/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1289/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1288/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1287/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1286/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1285/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1284/dvdl.dat’ for reading: No such file or directory
+Last Successful Restart is 1283
+dirnum = 1283
+dirnum = 1282
+dirnum = 1281
+Catenating from Restart1280
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+tail: option used in invalid context -- 1
+No VMD File, exiting!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/extract/bottom_extract
+Finding Restart Files
+tail: cannot open ‘restart1006/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1005/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1004/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1003/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1002/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1001/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1000/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart999/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart998/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart997/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart996/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart995/dvdl.dat’ for reading: No such file or directory
+Last Successful Restart is 994
+dirnum = 994
+dirnum = 993
+dirnum = 992
+dirnum = 991
+Catenating from Restart990
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart1006/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1005/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1004/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1003/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1002/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1001/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1000/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart999/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart998/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart997/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart996/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart995/dvdl.dat’ for reading: No such file or directory
+Last Successful Directory is 994
+Modifying approach.vmd
+tail: write error: Input/output error
+VMD file already up to date
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/top_approach/yang_q
+Finding Restart Files
+tail: cannot open ‘restart1261/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1260/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1259/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1258/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1257/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1256/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1255/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1254/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1253/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1252/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1251/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1250/dvdl.dat’ for reading: No such file or directory
+Last Successful Restart is 1249
+dirnum = 1249
+dirnum = 1248
+dirnum = 1247
+Catenating from Restart1246
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart1261/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1260/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1259/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1258/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1257/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1256/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1255/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1254/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1253/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1252/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1251/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart1250/dvdl.dat’ for reading: No such file or directory
+Last Successful Directory is 1249
+Modifying approach.vmd
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd.sh: line 78: dcd_vmd.txt: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd.sh: line 80: last_line.txt: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd.sh: line 82: vmd_last.txt: Disk quota exceeded
+grep: vmd_last.txt: No such file or directory
+VMD file already up to date
+rm: cannot remove ‘last_line.txt’: No such file or directory
+rm: cannot remove ‘vmd_last.txt’: No such file or directory
+rm: cannot remove ‘dcd_vmd.txt’: No such file or directory
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/holo/bottom_approach/yang_q
+Finding Restart Files
+tail: cannot open ‘restart963/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart962/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart961/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart960/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart959/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart958/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart957/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart956/dvdl.dat’ for reading: No such file or directory
+Last Successful Restart is 954
+dirnum = 954
+dirnum = 953
+dirnum = 952
+dirnum = 951
+Catenating from Restart950
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart963/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart962/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart961/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart960/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart959/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart958/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart957/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart956/dvdl.dat’ for reading: No such file or directory
+Last Successful Directory is 954
+Modifying approach.vmd
+grep: write error: Input/output error
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd.sh: line 76: bottom_vmd.txt: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd.sh: line 78: dcd_vmd.txt: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd.sh: line 80: last_line.txt: Disk quota exceeded
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd.sh: line 82: vmd_last.txt: Disk quota exceeded
+grep: vmd_last.txt: No such file or directory
+VMD file already up to date
+rm: cannot remove ‘bottom_vmd.txt’: No such file or directory
+rm: cannot remove ‘last_line.txt’: No such file or directory
+rm: cannot remove ‘vmd_last.txt’: No such file or directory
+rm: cannot remove ‘dcd_vmd.txt’: No such file or directory
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/Betalactamase/CBT/apo/docking/genacc
+Finding Restart Files
+tail: cannot open ‘restart866/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart865/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart864/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart863/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart862/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart861/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart860/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart859/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart858/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart857/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart856/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart855/dvdl.dat’ for reading: No such file or directory
+Last Successful Restart is 854
+dirnum = 854
+Catenating from Restart853
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart866/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart865/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart864/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart863/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart862/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart861/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart860/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart859/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart858/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart857/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart856/dvdl.dat’ for reading: No such file or directory
+tail: cannot open ‘restart855/dvdl.dat’ for reading: No such file or directory
+Last Successful Directory is 854
+Modifying appear.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/production
+Finding Restart Files
+tail: cannot open ‘restart263/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart262/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart261/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart260/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart259/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart258/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart257/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart256/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart255/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart254/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart253/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart252/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 251
+dirnum = 251
+dirnum = 250
+dirnum = 249
+Catenating from Restart248
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart263/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart262/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart261/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart260/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart259/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart258/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart257/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart256/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart255/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart254/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart253/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart252/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 251
+Modifying spin.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/production2
+Finding Restart Files
+tail: cannot open ‘restart169/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart168/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart167/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart166/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart165/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart164/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart163/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart162/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart161/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart160/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart159/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 157
+dirnum = 157
+dirnum = 156
+dirnum = 155
+Catenating from Restart154
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart169/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart168/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart167/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart166/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart165/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart164/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart163/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart162/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart161/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart160/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart159/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 157
+Modifying spin.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/production3
+Finding Restart Files
+tail: cannot open ‘restart172/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart171/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart170/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart169/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart168/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart167/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart166/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart165/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart164/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart163/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart162/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart161/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 160
+dirnum = 160
+dirnum = 159
+dirnum = 158
+dirnum = 157
+Catenating from Restart156
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart172/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart171/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart170/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart169/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart168/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart167/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart166/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart165/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart164/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart163/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart162/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart161/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 160
+Modifying spin.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production
+Finding Restart Files
+tail: cannot open ‘restart160/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart159/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart157/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart156/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart155/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart154/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart153/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart152/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart151/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart150/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart149/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 148
+dirnum = 148
+dirnum = 147
+dirnum = 146
+Catenating from Restart145
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart160/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart159/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart157/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart156/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart155/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart154/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart153/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart152/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart151/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart150/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart149/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 148
+Modifying spin.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production2
+Finding Restart Files
+tail: cannot open ‘restart174/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart173/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart172/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart171/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart170/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart169/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart168/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart167/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart166/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart165/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart164/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart163/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 162
+dirnum = 162
+dirnum = 161
+dirnum = 160
+dirnum = 159
+Catenating from Restart158
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart174/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart173/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart172/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart171/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart170/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart169/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart168/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart167/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart166/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart165/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart164/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart163/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 162
+Modifying spin.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/sreya/remix/lig_production3
+Finding Restart Files
+tail: cannot open ‘restart161/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart160/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart159/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart157/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart156/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart155/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart154/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart153/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart152/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart151/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart150/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 149
+dirnum = 149
+dirnum = 148
+dirnum = 147
+Catenating from Restart146
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart161/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart160/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart159/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart157/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart156/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart155/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart154/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart153/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart152/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart151/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart150/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 149
+Modifying spin.vmd
+grep: write error: Input/output error
+VMD file already up to date
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/production
+Finding Restart Files
+sort: write error: Input/output error
+Last Successful Restart is 
+tail: cannot open ‘restart0/ltrj*.dat’ for reading: No such file or directory
+Catenating from Restart
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart249/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart248/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart247/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart246/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart245/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart244/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart243/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart242/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart241/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart240/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart239/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart238/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 237
+Modifying spin.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/production2
+Finding Restart Files
+tail: cannot open ‘restart135/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart134/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart133/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart132/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart131/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart130/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart129/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart128/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart127/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart126/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart125/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart124/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 123
+dirnum = 123
+dirnum = 122
+dirnum = 121
+dirnum = 120
+Catenating from Restart119
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart135/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart134/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart133/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart132/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart131/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart130/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart129/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart128/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart127/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart126/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart125/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart124/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 123
+Modifying spin.vmd
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd_xb.sh: line 92: [[: 09: value too great for base (error token is "09")
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd_xb.sh: line 121: 09: value too great for base (error token is "09")
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/production3
+Finding Restart Files
+tail: cannot open ‘restart169/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart168/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart167/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart166/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart165/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart164/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart163/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart162/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart161/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart160/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart159/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 157
+dirnum = 157
+dirnum = 156
+dirnum = 155
+Catenating from Restart154
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart169/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart168/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart167/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart166/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart165/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart164/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart163/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart162/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart161/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart160/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart159/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 157
+Modifying spin.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/lig_production
+Finding Restart Files
+tail: cannot open ‘restart119/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart118/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart117/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart116/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart115/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart114/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart113/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart112/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart111/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart110/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart109/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart108/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 107
+dirnum = 107
+dirnum = 106
+dirnum = 105
+dirnum = 104
+Catenating from Restart103
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart119/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart118/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart117/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart116/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart115/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart114/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart113/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart112/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart111/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart110/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart109/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart108/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 107
+Modifying spin.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/lig_production2
+Finding Restart Files
+tail: cannot open ‘restart123/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart122/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart121/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart120/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart119/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart118/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart117/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart116/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart115/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 114
+dirnum = 114
+dirnum = 113
+dirnum = 112
+dirnum = 111
+dirnum = 110
+Catenating from Restart109
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart123/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart122/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart121/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart120/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart119/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart118/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart117/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart116/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart115/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 114
+Modifying spin.vmd
+Cleaning Up...
+Done!
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/arya/remix/lig_production3
+Finding Restart Files
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart157/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart156/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart155/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart154/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart153/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart152/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart151/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart150/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart149/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 148
+dirnum = 148
+dirnum = 147
+dirnum = 146
+Catenating from Restart145
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart158/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart157/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart156/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart155/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart154/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart153/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart152/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart151/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart150/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart149/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 148
+Modifying spin.vmd
+grep: write error: Input/output error
+/panfs/storage.local/home-1/sa14aa/job_automation/modify_vmd_xb.sh: line 82: vmd_last.txt: Disk quota exceeded
+grep: vmd_last.txt: No such file or directory
+VMD file already up to date
+rm: cannot remove ‘vmd_last.txt’: No such file or directory
+Submitting Jobs in /panfs/storage.local/imb/yang/sa14aa/strep_pro_g_a/production
+Finding Restart Files
+tail: cannot open ‘restart102/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart101/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart100/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart99/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart98/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart97/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart96/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart95/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart94/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart93/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart92/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart91/ltrj*.dat’ for reading: No such file or directory
+Last Successful Restart is 90
+dirnum = 90
+dirnum = 89
+dirnum = 88
+Catenating from Restart87
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+cat: write error: Input/output error
+Complete!
+Finding Restart Files
+tail: cannot open ‘restart102/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart101/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart100/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart99/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart98/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart97/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart96/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart95/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart94/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart93/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart92/ltrj*.dat’ for reading: No such file or directory
+tail: cannot open ‘restart91/ltrj*.dat’ for reading: No such file or directory
+Last Successful Directory is 90
+Modifying flex.vmd
+grep: write error: Input/output error
+VMD file already up to date
+Job Catanation Completed
